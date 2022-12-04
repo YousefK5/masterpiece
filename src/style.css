@@ -438,3 +438,8 @@
     padding-right: 0;
     border-right: none;
 }
+
+.places .img-fluid{
+    width: 70px;
+    height: 70px;
+}

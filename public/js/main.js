@@ -1,5 +1,6 @@
+/* eslint-disable no-undef */
+// window.onload = () => {
 (function ($) {
-    "use strict";
 
     // Spinner
     var spinner = function () {
@@ -79,3 +80,4 @@
     
 })(jQuery);
 
+// }
